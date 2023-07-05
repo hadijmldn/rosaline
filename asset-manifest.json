@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/rosaline/static/css/main.9d0d0d5c.css",
+    "main.js": "/rosaline/static/js/main.249e2e1e.js",
+    "index.html": "/rosaline/index.html",
+    "main.9d0d0d5c.css.map": "/rosaline/static/css/main.9d0d0d5c.css.map",
+    "main.249e2e1e.js.map": "/rosaline/static/js/main.249e2e1e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9d0d0d5c.css",
+    "static/js/main.249e2e1e.js"
+  ]
+}
